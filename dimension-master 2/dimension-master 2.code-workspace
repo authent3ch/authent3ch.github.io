@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../magic-connect-demo-forked"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "magic-connect-demo-forked"
+	}
+}
